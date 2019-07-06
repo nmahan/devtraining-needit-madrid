@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="task" label="NeedIt app" max_length="40" name="x_58872_needit_needit_app" sizeclass="5" type="collection">
+        <element label="New Integer" max_length="40" name="u_integer_1" type="integer"/>
+    </element>
+</database>
